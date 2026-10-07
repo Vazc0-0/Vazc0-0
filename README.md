@@ -1,114 +1,35 @@
-## 🐈‍⬛ Gabriel Vaz Franco
-
-**`Desenvolvedor Backend`**
-
-Me chamo Gabriel Vaz Franco, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Albert Einstein, com o curso técnico em ánalise e desenvolvimento de sistemas. Atualmente, estou cursando Ciências da computação. Sou apaixonado por tecnologia e desafios.
-
-<p>
-    <a href="https://github.com/Vazc0-0?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Vazc0-0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Vazc0-0?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Vazc0-0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 👾 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Android studio" 
-    title="Android studio "
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vazc0-0/Vazc0-0/main/dark.svg" alt="Gabriel Vaz Franco" width="100%" />
+</div>
 
 <br/>
+
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=Vazc0-0&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="streak" />
+<br/>
+<!-- troque github-readme-stats.vercel.app pela sua URL do Vercel quando tiver -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vazc0-0&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazc0-0&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
+
 <br/>
 
-### 📊 Estatísticas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vazc0-0/Vazc0-0/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Vazc0-0&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
+<br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vazc0-0&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/gabriel-vaz-franco-166125240/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/gabriel__vaz1/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gabriel.vaz.franco@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
